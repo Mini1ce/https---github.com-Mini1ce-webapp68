@@ -1,0 +1,89 @@
+body{
+    background-image: url(3306568.jpg);
+}
+
+header{
+    padding-top: 20px;
+
+}
+
+header span{
+    color: black;
+    font-size: 50px;
+}
+nav{
+    font-size: 30px;
+    padding-right: 10px;
+    margin-right: 20px;
+    float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav a{
+    margin: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover{
+
+    background-color: red ;
+    border-radius: 20px;
+    transition: 500ms;
+    text-decoration: underline;
+}
+
+img{
+    width: 700px;
+    height: 700px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 1000px;
+    background-color: darkgray;
+    position: absolute;
+}
+aside{
+    width: 30%;
+    padding-left: 15px;
+    margin-right: 100px;  
+    float: right;
+    margin-top: -400px;
+    
+}
+h1{
+    font-size: 180px;
+    margin-bottom: -100px;
+}
+h2{
+    font-size: 100px;
+    margin-bottom:-75px;
+}
+footer{
+    font-size: 20px;
+    margin-top: 320px;
+}
+footer a{
+    margin-left: 150px;
+}
+footer img{
+    width: 70px;
+    height: 70px;
+}
+span{
+    color: red;
+}
+
+h3{
+    font-size: 70px;
+    
+}
+input{
+    font-size: 50px;
+    border-radius: 10px ;
+    background-color: yellow;
+}
